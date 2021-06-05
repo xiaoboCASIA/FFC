@@ -1,6 +1,6 @@
 # Fast Face Classification (F²C)—— An Efficient Training Approach for Very Large Scale Face Recognition
 
-Training on ultra-large-scale datasets is time-consuming and takes up a lot of hardware resource. Therefore so we design a dul-data loaders and dynamic class pool to deal with large-scale face classification.
+Training on ultra-large-scale datasets is time-consuming and takes up a lot of hardware resource. Therefore, we design a Fast Face Classification (F2C) method, which contains dul-data loaders and dynamic class pool to deal with large-scale face classification.
 
 ***Pipeline***
 
